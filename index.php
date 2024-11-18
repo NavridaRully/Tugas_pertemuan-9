@@ -8,7 +8,7 @@ $Kelas = "TI.23.CA.1";
 
 <h1>
  <strong>Nama</strong>=<?php echo $Nama?>
-</h2>
+</h1>
 <h2>
  <strong>Kelas</strong>=<?php echo $Kelas?>
 </h2>
