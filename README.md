@@ -27,48 +27,24 @@ Cara Kerja Server-side Scripting
 
 **Jawaban Soal Kedua :**
 
-a) Codingan *PHP* :
-
 ```ruby
 <?php
+
 $NIM = "312310328";
 $Nama = "Navrida Rully Anastasya";
 $Kelas = "TI.23.CA.1";
+
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Mahasiswa</title>
-</head>
-<body>
-    <h2><strong>Nama</strong> = <?php echo $Nama; ?></h2>
-    <h2><strong>Kelas</strong> = <?php echo $Kelas; ?></h2>
-    <h2><strong>NIM</strong> = <?php echo $NIM; ?></h2>
-</body>
-</html>
+<h1>
+ <strong>Nama</strong>=<?php echo $Nama?>
+</h1>
+<p>
+ <strong>Kelas</strong>=<?php echo $Kelas?>
+</p>
+<p>
+ <strong>NIM</strong>=<?php echo $NIM?>
+</p>
 
 ```
 
-b) Hasil Output *PHP*
-<?php
-$NIM = "312310328";
-$Nama = "Navrida Rully Anastasya";
-$Kelas = "TI.23.CA.1";
-?>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Mahasiswa</title>
-</head>
-<body>
-    <h2><strong>Nama</strong> = <?php echo $Nama; ?></h2>
-    <h2><strong>Kelas</strong> = <?php echo $Kelas; ?></h2>
-    <h2><strong>NIM</strong> = <?php echo $NIM; ?></h2>
-</body>
-</html>
