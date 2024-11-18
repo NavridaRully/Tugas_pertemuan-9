@@ -1,3 +1,7 @@
+Nama : Navrida Rully Anastasya
+Kelas : TI.23.CA.1
+NIM : 312310328
+
 Jawaban Soal Pertama :
 
 Server-side scripting adalah proses menjalankan skrip di sisi server untuk menghasilkan halaman web dinamis atau menjalankan logika aplikasi web. Skrip ini biasanya digunakan untuk menangani permintaan pengguna, memproses data, dan mengelola interaksi dengan database atau sumber daya lainnya sebelum mengirimkan hasil ke browser pengguna.
@@ -20,6 +24,7 @@ Cara Kerja Server-side Scripting
 6. Rendering di Browser: Browser pengguna menerima hasil dan menampilkannya kepada pengguna.
 
 Jawaban Soal Kedua :
+
 <?php
 
 $NIM = "312310328";
