@@ -27,7 +27,6 @@ Cara Kerja Server-side Scripting
 
 **Jawaban Soal Kedua :**
 
-```ruby
 <?php
 
 $NIM = "312310328";
@@ -45,4 +44,4 @@ $Kelas = "TI.23.CA.1";
 <h1>
  <strong>NIM</strong>=<?php echo $NIM?>
 </h1>
-```
+
