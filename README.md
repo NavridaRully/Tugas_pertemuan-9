@@ -1,10 +1,10 @@
-Nama : Navrida Rully Anastasya
+**Nama : Navrida Rully Anastasya**
 
-Kelas : TI.23.CA.1
+**Kelas : TI.23.CA.1**
 
-NIM : 312310328
+**NIM : 312310328**
 
-Jawaban Soal Pertama :
+**Jawaban Soal Pertama :**
 
 Server-side scripting adalah proses menjalankan skrip di sisi server untuk menghasilkan halaman web dinamis atau menjalankan logika aplikasi web. Skrip ini biasanya digunakan untuk menangani permintaan pengguna, memproses data, dan mengelola interaksi dengan database atau sumber daya lainnya sebelum mengirimkan hasil ke browser pengguna.
 
@@ -25,7 +25,7 @@ Cara Kerja Server-side Scripting
    
 6. Rendering di Browser: Browser pengguna menerima hasil dan menampilkannya kepada pengguna.
 
-Jawaban Soal Kedua :
+**Jawaban Soal Kedua :**
 
 ```ruby
 <?php
@@ -39,10 +39,10 @@ $Kelas = "TI.23.CA.1";
 <h1>
  <strong>Nama</strong>=<?php echo $Nama?>
 </h1>
-<p>
+<h1>
  <strong>Kelas</strong>=<?php echo $Kelas?>
-</p>
-<p>
+</h1>
+<h1>
  <strong>NIM</strong>=<?php echo $NIM?>
-</p>
+</h1>
 ```
