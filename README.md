@@ -39,12 +39,12 @@ $Kelas = "TI.23.CA.1";
 <h1>
  <strong>Nama</strong>=<?php echo $Nama?>
 </h1>
-<p>
+<h2>
  <strong>Kelas</strong>=<?php echo $Kelas?>
-</p>
-<p>
+</h2>
+<h2>
  <strong>NIM</strong>=<?php echo $NIM?>
-</p>
+</h2>
 
 ```
 
