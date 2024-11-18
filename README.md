@@ -19,7 +19,7 @@ Cara Kerja Server-side Scripting
 6. Rendering di Browser: Browser pengguna menerima hasil dan menampilkannya kepada pengguna.
 
 Jawaban Soal Kedua :
-<?php
+"<?php
 
 $Nim = "312310328";
 $nama = "Navrida Rully Anastasya";
@@ -36,6 +36,6 @@ Saya Adalah
 </p>
 <p>
  <strong>Nim</strong>=<?php echo $Nim?>
-</p>
+</p>"
 
 
