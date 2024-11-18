@@ -8,7 +8,7 @@
 
 *Server-side scripting* adalah proses menjalankan skrip di sisi server untuk menghasilkan halaman web dinamis atau menjalankan logika aplikasi web. Skrip ini biasanya digunakan untuk menangani permintaan pengguna, memproses data, dan mengelola interaksi dengan database atau sumber daya lainnya sebelum mengirimkan hasil ke browser pengguna.
 
-Cara Kerja Server-side Scripting
+Cara Kerja *Server-side Scripting* :
 1. Permintaan Klien (HTTP Request): Proses dimulai ketika browser pengguna (klien) mengirimkan permintaan HTTP ke server. Contoh permintaan ini dapat berupa permintaan untuk halaman web tertentu atau pengiriman data formulir.
    
 2. Pemrosesan di Server: Server web menerima permintaan dan meneruskannya ke mesin skrip (misalnya, PHP, Python, Node.js). Mesin skrip menjalankan logika bisnis yang telah ditentukan dalam file skrip. Proses ini bisa melibatkan:
