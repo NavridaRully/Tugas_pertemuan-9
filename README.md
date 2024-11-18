@@ -1,3 +1,4 @@
+Jawaban Soal Pertama :
 Server-side scripting adalah proses menjalankan skrip di sisi server untuk menghasilkan halaman web dinamis atau menjalankan logika aplikasi web. Skrip ini biasanya digunakan untuk menangani permintaan pengguna, memproses data, dan mengelola interaksi dengan database atau sumber daya lainnya sebelum mengirimkan hasil ke browser pengguna.
 
 Cara Kerja Server-side Scripting
@@ -16,3 +17,25 @@ Cara Kerja Server-side Scripting
 5. Pengiriman Respon (HTTP Response): Hasil dari server-side scripting dikirim kembali ke browser klien dalam bentuk halaman HTML, JSON, XML, atau format lain yang sesuai.
    
 6. Rendering di Browser: Browser pengguna menerima hasil dan menampilkannya kepada pengguna.
+
+Jawaban Soal Kedua :
+<?php
+
+$Nim = "312310328";
+$nama = "Navrida Rully Anastasya";
+$Kelas = "TI.23.CA.1";
+
+?>
+
+<h1>
+Saya Adalah 
+<?php echo $nama?>
+</h1>
+<p>
+ <strong>Kelas</strong>=<?php echo $Kelas?>
+</p>
+<p>
+ <strong>Nim</strong>=<?php echo $Nim?>
+</p>
+
+
