@@ -1,5 +1,7 @@
 Nama : Navrida Rully Anastasya
+
 Kelas : TI.23.CA.1
+
 NIM : 312310328
 
 Jawaban Soal Pertama :
@@ -25,6 +27,7 @@ Cara Kerja Server-side Scripting
 
 Jawaban Soal Kedua :
 
+```ruby
 <?php
 
 $NIM = "312310328";
@@ -42,3 +45,4 @@ $Kelas = "TI.23.CA.1";
 <p>
  <strong>NIM</strong>=<?php echo $NIM?>
 </p>
+```
