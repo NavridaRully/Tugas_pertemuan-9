@@ -20,23 +20,20 @@ Cara Kerja Server-side Scripting
 6. Rendering di Browser: Browser pengguna menerima hasil dan menampilkannya kepada pengguna.
 
 Jawaban Soal Kedua :
-"<?php
+<?php
 
-$Nim = "312310328";
-$nama = "Navrida Rully Anastasya";
+$NIM = "312310328";
+$Nama = "Navrida Rully Anastasya";
 $Kelas = "TI.23.CA.1";
 
-?>"
+?>
 
-"<h1>
-Saya Adalah 
-<?php echo $nama?>
+<h1>
+ <strong>Nama</strong>=<?php echo $Nama?>
 </h1>
 <p>
  <strong>Kelas</strong>=<?php echo $Kelas?>
 </p>
 <p>
- <strong>Nim</strong>=<?php echo $Nim?>
-</p>"
-
-
+ <strong>NIM</strong>=<?php echo $NIM?>
+</p>
